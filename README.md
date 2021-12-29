@@ -1,2 +1,3 @@
 # steampad
-Simple TinyMCE instance designed for compatibility with Steam Overlay
+
+Proof-of-concept PHP bcrypt hasher and verifier.
